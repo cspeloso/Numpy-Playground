@@ -1,0 +1,17 @@
+This will show how to implement linear regression in Python using the following packages:
+    Numpy
+    Scikit-learn
+    statsmodels
+
+Numpy is used for handling arrays.
+
+Linear regression is implemented with either of the following:
+    scikit-learn:   if you don't need detailed results and want to use the approach consistent with other regression techniques
+    statsmodels:    if you need advanced statistical parameters of a model
+
+When performing linear regression in Python, these are the steps to follow:
+    1. Import the packages and classes needed
+    2. Provide data to work with and eventually do appropriate transformations
+    3. Create a regression model and fit it with existing data
+    4. Check the results of model fitting to know whether the model is satisfactory
+    5. Apply the model for predictions
